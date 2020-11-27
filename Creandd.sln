@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creand", "Creandd\Creand.csproj", "{9F5830E1-F206-43D1-AED9-F86EE8A55684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		Second|Any CPU = Second|Any CPU
+		Second|x64 = Second|x64
+		Second|x86 = Second|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Debug|x64.ActiveCfg = Debug|x64
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Debug|x64.Build.0 = Debug|x64
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Debug|x86.ActiveCfg = Debug|x86
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Debug|x86.Build.0 = Debug|x86
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Release|x64.ActiveCfg = Release|x64
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Release|x64.Build.0 = Release|x64
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Release|x86.ActiveCfg = Release|x86
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Release|x86.Build.0 = Release|x86
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Second|Any CPU.ActiveCfg = Second|Any CPU
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Second|Any CPU.Build.0 = Second|Any CPU
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Second|x64.ActiveCfg = Second|x64
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Second|x64.Build.0 = Second|x64
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Second|x86.ActiveCfg = Debug|x86
+		{9F5830E1-F206-43D1-AED9-F86EE8A55684}.Second|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {285F0A00-2374-4C9C-B3DB-B28E1717473C}
+	EndGlobalSection
+EndGlobal
